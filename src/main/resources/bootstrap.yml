@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/mcastgir/bootcamp-project2-config-data.git
+          uri: https://github.com/mcastgir/bootcamp-project4-config-data.git
           username: mcastgir
           password: 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
   security:
